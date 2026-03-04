@@ -4,7 +4,8 @@ Full-stack developer focused on B2B systems, automation and scalable web archite
 
 🌍 Based in Slovakia  
 🚀 Building: www.directheader.com  
-📫 Contact: contact@bohdansulyma.com  
+📫 Contact: contact@bohdansulyma.com
+💻 Me: www.bohdansulyma.com
 
 ---
 
