@@ -7,6 +7,7 @@ Full-stack developer focused on B2B systems, automation and scalable web archite
 📫 Contact: contact@bohdansulyma.com
 💻 Me: www.bohdansulyma.com
 
+
 ---
 
 ## 🧠 What I Do
