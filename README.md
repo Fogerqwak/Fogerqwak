@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://directheader.com">
+  <img src="./assets/directheader-logo.png" alt="DirectHeader" height="72" />
+</a>
+
 # Bohdan Sulyma
 
 ### Founder @ DirectHeader · Software Engineer
