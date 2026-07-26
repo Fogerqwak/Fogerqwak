@@ -13,6 +13,6 @@ None required. Workflows use the default `GITHUB_TOKEN`.
 
 | Workflow | Schedule (UTC) | Output |
 | --- | --- | --- |
-| Profile 3D Contrib | `0 18 * * *` | `profile-3d-contrib/profile-night-green.svg` |
+| Profile 3D Contrib | `0 16 * * *` (18:00 CEST / 17:00 CET) | `profile-3d-contrib/profile-night-green.svg` |
 
 First run: **Actions → Profile 3D Contrib → Run workflow**.

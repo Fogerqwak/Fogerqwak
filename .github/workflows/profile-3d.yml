@@ -3,9 +3,10 @@
 name: Profile 3D Contrib
 
 on:
-  # Daily at 18:00 UTC (aligned with upstream sample; contribution data settles overnight).
+  # 18:00 Central European Time.
+  # GitHub cron is UTC-only: 16:00 UTC = 18:00 CEST (summer), 17:00 CET (winter).
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 concurrency:
