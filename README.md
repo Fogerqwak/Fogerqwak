@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://directheader.com">
-  <img src="./assets/directheader-banner.gif" alt="DirectHeader" width="880" />
+  <img src="./assets/directheader-banner.gif" alt="DirectHeader" height="96" />
 </a>
 
 # Bohdan Sulyma
