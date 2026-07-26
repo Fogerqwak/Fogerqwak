@@ -109,7 +109,11 @@ while (alive) {
 
 # Connect
 
-Website
+Personal Website
+
+https://www.bohdansulyma.com
+
+Company Website
 
 https://directheader.com
 
