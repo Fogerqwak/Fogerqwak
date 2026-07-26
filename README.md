@@ -9,7 +9,7 @@
 <a href="https://luverte.app">LuVerte</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=3B82F6&center=true&vCenter=true&width=760&lines=%3E+building+LuVerte;%3E+founder+%40+DirectHeader;%3E+architecting+AI+products;%3E+shipping+production+software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=3B82F6&center=true&vCenter=true&width=760&lines=%3E+building+LuVerte;%3E+founder+%40+DirectHeader;%3E+architecting+AI-first+products;%3E+shipping+production+software" />
 
 </div>
 
@@ -33,7 +33,7 @@ focus:
 
 ---
 
-## Tech
+## Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,docker,cloudflare,vercel,git,linux,apple&theme=dark"/>
@@ -41,7 +41,7 @@ focus:
 
 ---
 
-## Engineering Dashboard
+## Metrics
 
 <p align="center">
 
@@ -52,11 +52,21 @@ focus:
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fogerqwak&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fogerqwak&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
 </p>
 
 ---
@@ -69,15 +79,17 @@ AI-powered personal styling platform built with **Expo**, **Supabase** and **Ope
 
 ### 🏢 DirectHeader
 
-Building AI software, SaaS platforms and modern web infrastructure.
+Engineering company building AI software, SaaS platforms and scalable web infrastructure.
 
 ### ⚙️ DirectHeader Hub
 
-Internal operating system powering sales, analytics and support.
+Internal operating system powering sales, analytics, billing and support.
 
 ---
 
 <div align="center">
+
+### Building software that scales.
 
 <a href="https://www.bohdansulyma.com">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white"/>
