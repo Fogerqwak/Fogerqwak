@@ -33,6 +33,22 @@ focus:
 
 ---
 
+## Products
+
+### LuVerte
+
+AI-powered personal styling platform built with **Expo**, **Supabase** and **OpenAI**.
+
+### DirectHeader
+
+Engineering company building AI software, SaaS platforms and scalable web infrastructure.
+
+### DirectHeader Hub
+
+Internal operating system powering sales, analytics, billing and support.
+
+---
+
 ## Stack
 
 <p align="center">
@@ -41,29 +57,11 @@ focus:
 
 ---
 
-## Metrics
+## Contributions
 
 <p align="center">
-
-<img src="./profile-3d-contrib/profile-night-green.svg?v=6" />
-
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub contribution graph" />
 </p>
-
----
-
-## Products
-
-### 🪄 LuVerte
-
-AI-powered personal styling platform built with **Expo**, **Supabase** and **OpenAI**.
-
-### 🏢 DirectHeader
-
-Engineering company building AI software, SaaS platforms and scalable web infrastructure.
-
-### ⚙️ DirectHeader Hub
-
-Internal operating system powering sales, analytics, billing and support.
 
 ---
 
@@ -74,15 +72,12 @@ Internal operating system powering sales, analytics, billing and support.
 <a href="https://www.bohdansulyma.com">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
-
 <a href="https://directheader.com">
 <img src="https://img.shields.io/badge/DirectHeader-2563EB?style=for-the-badge"/>
 </a>
-
 <a href="mailto:contact@bohdansulyma.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/bohdansulyma">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

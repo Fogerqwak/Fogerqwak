@@ -1,39 +1,18 @@
-# Repository setup for automation (secrets & first-run)
+# Profile repository automation
 
-This profile repository uses GitHub Actions to refresh generated SVG assets.
+## Secrets
 
-## Required secrets
+None required. Workflows use the default `GITHUB_TOKEN`.
 
-None. `GITHUB_TOKEN` is provided automatically by GitHub Actions and is enough for:
+## Settings
 
-- `.github/workflows/profile-3d.yml`
+1. **Actions → General → Workflow permissions** → Read and write permissions  
+2. Optional: enable *Include private contributions on my profile* so the graph includes private work  
 
-## Recommended GitHub profile settings
+## Workflows
 
-1. **Private contributions on your profile (optional)**  
-   Profile → Contribution settings → enable *Include private contributions on my profile*  
-   so the 3D contribution graph reflects private work.
+| Workflow | Schedule (UTC) | Output |
+| --- | --- | --- |
+| Profile 3D Contrib | `0 18 * * *` | `profile-3d-contrib/profile-night-green.svg` |
 
-2. **Allow Actions to create commits**  
-   Repository → Settings → Actions → General → Workflow permissions → **Read and write permissions**.
-
-3. **Enable workflows**  
-   After the first push that adds workflow files, open the **Actions** tab and ensure workflows are not blocked.
-
-## First-time run (required)
-
-Until this job succeeds once, the README image path may be a placeholder.
-
-1. Actions → **Profile 3D Contrib** → Run workflow
-
-## Generated outputs
-
-| Asset | Workflow |
-| --- | --- |
-| `profile-3d-contrib/profile-night-green.svg` (and sibling themes) | Profile 3D Contrib |
-
-## Scheduling
-
-| Workflow | Cron (UTC) |
-| --- | --- |
-| Profile 3D Contrib | `0 18 * * *` |
+First run: **Actions → Profile 3D Contrib → Run workflow**.
