@@ -1,5 +1,5 @@
 # Generates 3D contribution calendars via yoshi389111/github-profile-3d-contrib.
-# README uses: ./profile-3d-contrib/profile-green-animate.svg
+# README uses: ./profile-3d-contrib/profile-night-green.svg
 name: Profile 3D Contrib
 
 on:

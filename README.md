@@ -65,7 +65,7 @@ focus:
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg?v=5" />
+<img src="./profile-3d-contrib/profile-night-green.svg?v=6" />
 
 </p>
 
