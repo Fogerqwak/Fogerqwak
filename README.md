@@ -2,7 +2,7 @@
 
 ### Stats
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/wakatime-card?user=Fogerqwak&theme=dark"><img alt="Fogerqwak coding time" src="https://coolreadme.xyz/api/wakatime-card?user=Fogerqwak&theme=light"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/wakatime-card?user=@224c84d6-a7fc-4539-b2fe-384d458f7402&theme=dark"><img alt="Fogerqwak coding time" src="https://coolreadme.xyz/api/wakatime-card?user=Fogerqwak&theme=light"></picture>
 
 Full-stack developer focused on CRM systems, automation and scalable web architecture.
 
