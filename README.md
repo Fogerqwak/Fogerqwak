@@ -2,81 +2,46 @@
 
 # Bohdan Sulyma
 
-### Founder • Software Architect • Building AI Infrastructure
+### Founder • Software Architect • Building AI-first software
 
 <p>
-Engineering products that scale from idea to production.
-</p>
-
-<p>
-
 <a href="https://directheader.com">DirectHeader</a> •
-<a href="https://luverte.app">LuVerte</a> •
-<a href="https://hub.directheader.com">Hub</a>
-
+<a href="https://luverte.app">LuVerte</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=3B82F6&center=true&vCenter=true&width=800&lines=%3E+booting+DirectHeader+Engineering...;%3E+building+LuVerte;%3E+architecting+AI-first+software;%3E+shipping+production+systems;%3E+coffee+dependency:+critical" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=3B82F6&center=true&vCenter=true&width=760&lines=%3E+building+LuVerte;%3E+founder+%40+DirectHeader;%3E+architecting+AI+products;%3E+shipping+production+software" />
 
 </div>
 
 ---
 
-# System Status
-
-```yaml
-directheader:
-  status: operational
-
-luverte:
-  status: active_development
-
-hub:
-  status: shipping
-
-infrastructure:
-  status: online
-
-founder:
-  status: caffeinated
-```
-
----
-
-# Current Architecture
+## Current Focus
 
 ```yaml
 company:
-  name: DirectHeader
-  role: Founder
+  DirectHeader
 
 products:
   - LuVerte
   - DirectHeader Hub
 
 focus:
-  - AI Systems
+  - AI Products
   - SaaS Infrastructure
-  - Product Architecture
-  - Developer Experience
-
-mission:
-  Build software that survives production.
+  - System Architecture
 ```
 
 ---
 
-# Technology
+## Tech
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,docker,cloudflare,vercel,git,linux&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,docker,cloudflare,vercel,git,linux,apple&theme=dark"/>
 </p>
 
 ---
 
-# Engineering Dashboard
+## Engineering Dashboard
 
 <p align="center">
 
@@ -87,95 +52,35 @@ mission:
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fogerqwak&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fogerqwak&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# Products
+## Products
 
-## 🪄 LuVerte
+### 🪄 LuVerte
 
-> AI-powered personal styling platform.
+AI-powered personal styling platform built with **Expo**, **Supabase** and **OpenAI**.
 
-Built with **Expo**, **Supabase**, **OpenAI** and designed around real-world wardrobe intelligence.
+### 🏢 DirectHeader
 
----
+Building AI software, SaaS platforms and modern web infrastructure.
 
-## 🏢 DirectHeader
+### ⚙️ DirectHeader Hub
 
-> Engineering company building modern SaaS, AI products and scalable web infrastructure.
-
----
-
-## ⚙️ DirectHeader Hub
-
-> Internal operating system powering sales, provisioning, analytics, billing and support.
-
----
-
-# Engineering Principles
-
-```yaml
-principles:
-
-  - Build useful software.
-
-  - Ship before perfect.
-
-  - Automate repetitive work.
-
-  - Measure everything.
-
-  - Optimize for long-term maintainability.
-```
-
----
-
-# Live Stack
-
-```text
-Frontend
-├── Next.js
-├── React
-├── Expo
-
-Backend
-├── Node.js
-├── Supabase
-└── PostgreSQL
-
-Infrastructure
-├── Docker
-├── Cloudflare
-├── Vercel
-└── GitHub Actions
-
-AI
-├── OpenAI
-└── Prompt Engineering
-```
+Internal operating system powering sales, analytics and support.
 
 ---
 
 <div align="center">
 
-## Currently Building
-
-🪄 LuVerte • ⚙️ DirectHeader Hub • 🏢 DirectHeader
-
-<p>
-
 <a href="https://www.bohdansulyma.com">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
 
 <a href="https://directheader.com">
@@ -190,10 +95,4 @@ AI
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
-
-<sub>
-Building software people rely on.
-</sub>
-
-</div><div align="center">
+</div>
