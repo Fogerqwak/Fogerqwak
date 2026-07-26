@@ -24,6 +24,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          # Full history so rebase against newer main commits works cleanly.
+          fetch-depth: 0
 
       - name: Generate 3D contribution graphs
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
@@ -47,4 +50,7 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update profile 3D contribution graph"
-          git push
+
+          # Remote may have moved (README edits, etc.) while this job ran.
+          git pull --rebase origin main
+          git push origin HEAD:main
