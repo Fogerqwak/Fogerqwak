@@ -65,19 +65,13 @@ focus:
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" />
+<img src="./profile-3d-contrib/profile-gitblock.svg?v=4" />
 
 </p>
 
 <p align="center">
 
 <img src="./assets/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
-<p align="center">
-
-<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 
 </p>
 

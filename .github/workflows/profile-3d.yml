@@ -1,5 +1,5 @@
 # Generates 3D contribution calendars via yoshi389111/github-profile-3d-contrib.
-# README uses: ./profile-3d-contrib/profile-night-rainbow.svg (dark / night rainbow).
+# README uses: ./profile-3d-contrib/profile-gitblock.svg
 name: Profile 3D Contrib
 
 on:
