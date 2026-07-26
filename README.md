@@ -45,6 +45,12 @@ focus:
 
 <p align="center">
 
+<img src="./profile-3d-contrib/profile-night-green.svg?v=6" />
+
+</p>
+
+<p align="center">
+
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=Fogerqwak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fogerqwak&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -60,12 +66,6 @@ focus:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fogerqwak&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-green.svg?v=6" />
 
 </p>
 
