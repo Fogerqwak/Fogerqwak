@@ -53,7 +53,7 @@ focus:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fogerqwak&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Fogerqwak&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -66,6 +66,18 @@ focus:
 <p align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+</p>
+
+<p align="center">
+
+<img src="./assets/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+<p align="center">
+
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 
 </p>
 
