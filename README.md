@@ -65,7 +65,7 @@ focus:
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" />
 
 </p>
 
