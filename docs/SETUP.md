@@ -10,7 +10,14 @@ Open:
 
 | Secret name | Required by | How to create | Scopes |
 | --- | --- | --- | --- |
-| `METRICS_TOKEN` | `.github/workflows/metrics.yml` | [Create a classic PAT](https://github.com/settings/tokens/new?description=metrics-profile&scopes=) | **No scopes required** for public data. Optionally `read:user` / `read:org` if you want richer private-adjacent stats. Do **not** start the secret name with `GITHUB_`. |
+| `METRICS_TOKEN` | `.github/workflows/metrics.yml` | [Create a **classic** PAT](https://github.com/settings/tokens/new?description=metrics-profile&scopes=) (Tokens **(classic)**, not fine-grained) | Leave **all scopes unchecked**. Token value must start with `ghp_`. Do **not** use fine-grained (`github_pat_`) — metrics GraphQL rejects them. |
+
+### Common `METRICS_TOKEN` failures
+
+| Log message | Fix |
+| --- | --- |
+| `fine-grained personal access token` / `unsupported` | Recreate a **classic** PAT and update the secret |
+| `token … (missing)` / `legacy or invalid` | Secret missing, empty, misnamed, or stored under **Variables** instead of **Secrets**. Name must be exactly `METRICS_TOKEN` under **Actions secrets** (not Environment secrets unless the job sets `environment:`). Re-paste the full `ghp_…` value with no spaces/newlines. |
 
 `GITHUB_TOKEN` is provided automatically by GitHub Actions. It is enough for:
 

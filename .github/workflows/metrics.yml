@@ -27,6 +27,30 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      # Fail fast with a clear message if the Actions secret is missing/empty.
+      # lowlighter/metrics requires a classic PAT (ghp_...), not fine-grained (github_pat_...).
+      - name: Verify METRICS_TOKEN secret
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -z "${METRICS_TOKEN}" ]; then
+            echo "::error::Secret METRICS_TOKEN is missing or empty."
+            echo "Add it at: Settings → Secrets and variables → Actions"
+            echo "Name must be exactly: METRICS_TOKEN"
+            echo "Value must be a classic PAT (starts with ghp_), not fine-grained (github_pat_)."
+            exit 1
+          fi
+          case "${METRICS_TOKEN}" in
+            ghp_*) echo "METRICS_TOKEN looks like a classic PAT." ;;
+            github_pat_*)
+              echo "::error::METRICS_TOKEN is fine-grained. Metrics needs a classic PAT (ghp_)."
+              exit 1
+              ;;
+            *)
+              echo "::warning::METRICS_TOKEN does not start with ghp_. If this fails, recreate a classic PAT."
+              ;;
+          esac
+
       # lowlighter/metrics commits the SVG itself when output_action is commit (default).
       - name: Generate metrics
         uses: lowlighter/metrics@latest
