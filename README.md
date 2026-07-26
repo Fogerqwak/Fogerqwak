@@ -1,36 +1,122 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=Fogerqwak&title=Bohdan%20Sulyma&subtitle=Creating%20things&theme=dark"><img alt="Fogerqwak hero" src="https://coolreadme.xyz/api/hero-banner?user=Fogerqwak&title=Bohdan%20Sulyma&subtitle=Creating%20things&theme=light"></picture>
+<div align="center">
 
-### Stats
+# Bohdan Sulyma
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/wakatime-card?user=224c84d6-a7fc-4539-b2fe-384d458f7402&theme=dark"><img alt="Fogerqwak coding time" src="https://coolreadme.xyz/api/wakatime-card?user=Fogerqwak&theme=light"></picture>
+### Founder • Product Engineer • Building AI-first software
 
-Full-stack developer focused on CRM systems, automation and scalable web architecture.
+<p>
+Building products, not portfolios.
+</p>
 
- **Based in** Slovakia  
- **Building:** www.directheader.com  
- **Contact:** contact@bohdansulyma.com
+<p>
+<a href="https://directheader.com">DirectHeader</a> •
+<a href="https://luverte.app">LuVerte</a>
+</p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=3B82F6&center=true&vCenter=true&width=700&lines=Founder+%40+DirectHeader;Building+LuVerte;Architecting+Modern+SaaS;AI+Systems+%7C+Next.js+%7C+Supabase;Shipping+Every+Week" />
 
----
-
-##  What I Do
-
-- B2B Web Applications
-- CRM Systems
-- SaaS Systems
-- Business Automation
-- High-converting websites
+</div>
 
 ---
 
-##  Tech Stack
+# Current Focus
 
-![Stack](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,docker,nginx,linux&theme=dark)
+```yaml
+Company:
+  DirectHeader
+
+Products:
+  - LuVerte
+  - DirectHeader Hub
+
+Building:
+  - AI Products
+  - SaaS Platforms
+  - Internal Operating Systems
+
+Mission:
+  Build software people actually enjoy using.
+```
 
 ---
 
-##  GitHub Stats
+# Tech
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fogerqwak&show_icons=true&theme=tokyonight)
+<p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogerqwak&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,docker,cloudflare,vercel,git,linux&theme=dark"/>
+
+</p>
+
+---
+
+# Engineering Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fogerqwak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fogerqwak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fogerqwak&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fogerqwak&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Building
+
+### 🪄 LuVerte
+
+AI-powered personal stylist built with Expo, Supabase and OpenAI.
+
+---
+
+### 🏢 DirectHeader
+
+Building modern web applications, AI systems and scalable SaaS.
+
+---
+
+### ⚙️ DirectHeader Hub
+
+Internal operating system powering client management, analytics, billing and support.
+
+---
+
+# Philosophy
+
+```ts
+while (alive) {
+    build();
+    ship();
+    measure();
+    improve();
+}
+```
+
+---
+
+# Connect
+
+Website
+
+https://directheader.com
+
+Email
+
+contact@bohdansulyma.com
+
+LinkedIn
+
+https://linkedin.com/in/bohdansulyma
