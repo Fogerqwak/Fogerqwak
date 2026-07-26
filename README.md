@@ -109,18 +109,22 @@ while (alive) {
 
 # Connect
 
-Personal Website
+<p align="center">
 
-https://www.bohdansulyma.com
+<a href="https://www.bohdansulyma.com">
+    <img src="https://img.shields.io/badge/Website-bohdansulyma.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-Company Website
+<a href="https://directheader.com">
+    <img src="https://img.shields.io/badge/Company-DirectHeader-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-https://directheader.com
+<a href="mailto:contact@bohdansulyma.com">
+    <img src="https://img.shields.io/badge/Email-contact%40bohdansulyma.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Email
+<a href="https://linkedin.com/in/bohdansulyma">
+    <img src="https://img.shields.io/badge/LinkedIn-Bohdan%20Sulyma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-contact@bohdansulyma.com
-
-LinkedIn
-
-https://linkedin.com/in/bohdansulyma
+</p>
