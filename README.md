@@ -2,10 +2,10 @@
 
 # Bohdan Sulyma
 
-### Founder • Software Architect • Building AI-first software
+### Founder @ DirectHeader · Software Engineer
 
 <p>
-<a href="https://directheader.com">DirectHeader</a> •
+<a href="https://directheader.com">DirectHeader</a> ·
 <a href="https://luverte.app">LuVerte</a>
 </p>
 
@@ -33,7 +33,7 @@ focus:
 
 ---
 
-## Products
+## Building
 
 ### LuVerte
 
