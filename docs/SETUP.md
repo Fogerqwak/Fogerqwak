@@ -32,7 +32,7 @@ Until these jobs succeed once, README image paths may be placeholders.
 
 | Asset | Workflow |
 | --- | --- |
-| `profile-3d-contrib/profile-gitblock.svg` (and sibling themes) | Profile 3D Contrib |
+| `profile-3d-contrib/profile-green-animate.svg` (and sibling themes) | Profile 3D Contrib |
 | `assets/github-contribution-grid-snake-dark.svg` | Contribution Snake |
 
 ## Scheduling
