@@ -8,7 +8,7 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-# Avoid overlapping pushes with snake / metrics workflows.
+# Avoid overlapping pushes if additional asset workflows are added later.
 concurrency:
   group: profile-generated-assets
   cancel-in-progress: false

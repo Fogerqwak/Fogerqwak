@@ -49,32 +49,6 @@ focus:
 
 </p>
 
-<p align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Fogerqwak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fogerqwak&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Fogerqwak&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fogerqwak&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="./assets/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
 ---
 
 ## Products
