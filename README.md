@@ -56,7 +56,7 @@ Internal operating system powering sales, analytics, billing and support.
 ## Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,postgres,supabase,docker,expogo,cloudflare,vercel,git,linux,apple,android&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,python,react,tailwind,nextjs,nodejs,postgres,supabase,docker,androidstudio,cloudflare,vercel,git,redhat,apple&theme=dark"/>
 </p>
 
 ---
