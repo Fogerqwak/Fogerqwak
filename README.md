@@ -28,6 +28,10 @@ company:
 products:
   - LuVerte
   - DirectHeader Hub
+  - {hidden progect}
+  - {hidden progect}
+  - {hidden progect}
+
 
 focus:
   - AI Products
