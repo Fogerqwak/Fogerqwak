@@ -37,9 +37,7 @@ We don't just write code. We architect systems that grow from thousands to milli
 
 ## Activity
 
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribution graph" width="100%" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Fogerqwak/Fogerqwak/main/assets/github-contribution-grid-snake-dark.svg)
 
 ---
 
