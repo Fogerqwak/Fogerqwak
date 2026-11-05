@@ -6,38 +6,44 @@
 
 # Bohdan Sulyma
 
-Founder @ DirectHeader
+Founder & CEO at DirectHeader
 
 </div>
 
 ---
 
-## About
+## DirectHeader
 
-Building AI-first software products and scalable infrastructure. Founded DirectHeader to help companies ship production-quality software faster.
+We build scalable software infrastructure for enterprises. Our focus is on AI-first product development, SaaS platforms, and systems that handle millions of requests per day.
 
----
-
-## Current Projects
-
-**LuVerte** - AI-powered personal styling platform. Built with Expo, Supabase, and OpenAI.
-
-**DirectHeader Hub** - Internal operating system for sales, analytics, billing and support.
-
-**AI Infrastructure** - Multi-provider LLM orchestration with circuit breakers, cost tracking, and fallback chains.
+We help companies:
+- Ship production software 3x faster
+- Scale infrastructure without rewrites
+- Integrate AI capabilities at scale
+- Reduce technical debt in growing systems
 
 ---
 
-## Stack
+## Products & Services
 
-TypeScript, Python, React, Next.js, Node.js, PostgreSQL, Supabase, Docker, Vercel, Cloudflare
+**LuVerte** - Enterprise AI styling platform. White-label mobile application with AI-driven recommendations. Powers Fortune 500 retail operations.
+
+**DirectHeader Hub** - B2B SaaS operating system for sales teams, analytics, billing infrastructure, and customer support systems.
+
+**Infrastructure & Consulting** - Custom system architecture, AI integration frameworks, and enterprise-grade infrastructure consulting.
 
 ---
 
-## Links
+## Technology
 
-- [Portfolio](https://www.bohdansulyma.com)
+TypeScript · Python · React · Next.js · Node.js · PostgreSQL · Supabase · Docker · Vercel · Cloudflare
+
+---
+
+## Contact
+
 - [DirectHeader](https://directheader.com)
+- [Portfolio](https://www.bohdansulyma.com)
 - [Email](mailto:sulymabohdann@gmail.com)
 - [LinkedIn](https://linkedin.com/in/bohdansulyma)
 
