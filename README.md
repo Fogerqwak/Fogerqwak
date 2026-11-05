@@ -8,8 +8,6 @@
 
 Founder & CEO at DirectHeader
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+systems+that+scale+to+millions;AI-first+infrastructure+from+day+one;Ship+faster.+Scale+smarter.+Compete+harder." />
-
 </div>
 
 ---
@@ -34,6 +32,14 @@ We don't just write code. We architect systems that grow from thousands to milli
 **DirectHeader Hub** - The operating system for modern sales teams. Sales infrastructure, analytics, billing, customer success—unified, automated, scalable.
 
 **Custom Infrastructure** - When your growth breaks existing systems, we rebuild them to go 10x further.
+
+---
+
+## Activity
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribution graph" width="100%" />
+</p>
 
 ---
 
