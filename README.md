@@ -8,39 +8,44 @@
 
 Founder & CEO at DirectHeader
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+systems+that+scale+to+millions;AI-first+infrastructure+from+day+one;Ship+faster.+Scale+smarter.+Compete+harder." />
+
 </div>
 
 ---
 
-## DirectHeader
+## What We Do
 
-We build scalable software infrastructure for enterprises. Our focus is on AI-first product development, SaaS platforms, and systems that handle millions of requests per day.
+DirectHeader builds **enterprise-grade software infrastructure** for companies that refuse to compromise.
 
-We help companies:
-- Ship production software 3x faster
-- Scale infrastructure without rewrites
-- Integrate AI capabilities at scale
-- Reduce technical debt in growing systems
+We don't just write code. We architect systems that grow from thousands to millions of users without breaking. We embed AI capabilities at the infrastructure layer, not as an afterthought.
 
----
-
-## Products & Services
-
-**LuVerte** - Enterprise AI styling platform. White-label mobile application with AI-driven recommendations. Powers Fortune 500 retail operations.
-
-**DirectHeader Hub** - B2B SaaS operating system for sales teams, analytics, billing infrastructure, and customer support systems.
-
-**Infrastructure & Consulting** - Custom system architecture, AI integration frameworks, and enterprise-grade infrastructure consulting.
+**Our track record:**
+- Systems handling 1M+ requests/day
+- 3x faster time-to-market
+- Infrastructure built for scale from day one
 
 ---
 
-## Technology
+## What We're Building
+
+**LuVerte** - AI-driven retail platform. Enterprise-grade mobile app deployed across Fortune 500 chains. Real-time personalization. Measurable revenue impact.
+
+**DirectHeader Hub** - The operating system for modern sales teams. Sales infrastructure, analytics, billing, customer success—unified, automated, scalable.
+
+**Custom Infrastructure** - When your growth breaks existing systems, we rebuild them to go 10x further.
+
+---
+
+## Stack
 
 TypeScript · Python · React · Next.js · Node.js · PostgreSQL · Supabase · Docker · Vercel · Cloudflare
 
 ---
 
-## Contact
+## Work With Us
+
+Enterprise solutions. Custom architecture. AI infrastructure that actually works.
 
 - [DirectHeader](https://directheader.com)
 - [Portfolio](https://www.bohdansulyma.com)
