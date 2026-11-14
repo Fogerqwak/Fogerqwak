@@ -27,9 +27,9 @@ We don't just write code. We architect systems that grow from thousands to milli
 
 ## What We're Building
 
-**LuVerte** - AI-driven retail platform. Enterprise-grade mobile app deployed across Fortune 500 chains. Real-time personalization. Measurable revenue impact.
+**LuVerte** - -----------.
 
-**DirectHeader Hub** - The operating system for modern sales teams. Sales infrastructure, analytics, billing, customer success—unified, automated, scalable.
+**DirectHeader Hub** - ---------------.
 
 **Custom Infrastructure** - When your growth breaks existing systems, we rebuild them to go 10x further.
 
